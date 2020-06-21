@@ -1,6 +1,6 @@
 Clonar frontendUsuario
 
-En la terminal ejecutar "npm start"
+En la terminal ejecutar "npm install --save-dev @angular-devkit/build-angular", luego "npm start"
 
 En el navegador http://localhost:4200/
 
