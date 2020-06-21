@@ -1,3 +1,7 @@
+Clonar frontendUsuario
+
+En la terminal ejecutar "npm start"
+
 # FrontendUsuario
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.9.
